@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1732380451
-ModificationTime: 1732485774
+ModificationTime: 1732486005
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,7 +47,7 @@ Grid
 -109 481 m 29
  563 481 l 1053
 EndSplineSet
-BeginChars: 256 52
+BeginChars: 256 53
 
 StartChar: T
 Encoding: 84 84 0
@@ -12485,6 +12485,13 @@ SplineSet
  157.280679044 499.035263149 188.389914662 497.747195404 196.102539062 493.306640625 c 0
  200.408203125 490.828125 206.061523438 488.762695312 208.540039062 488.762695312 c 0
 EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 52
+Width: 500
+Flags: HW
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
