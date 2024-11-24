@@ -1,8 +1,8 @@
 # barcamp 13 communal typeface
 
-to-do (tracing)
+a communal typeface, created using paper & pens, and compiled using [FontForge](https://fontforge.org).
 
-CC-BY-SHA (change to proper)
+licence: CC-BY-SHA (change to proper)
 
 ## letters & characters
 
@@ -11,4 +11,3 @@ CC-BY-SHA (change to proper)
 `.,!?:;[]{}&@8ñα⏻🜨`
 
 extra (missing) letters are (temporarily ???) filled in with letters from [bogface](https://github.com/alifeee/bogface/).
-
