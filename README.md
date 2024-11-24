@@ -8,5 +8,5 @@ CC-BY-SHA (change to proper)
 
 `ABCDEFGHIJKLMNOPQRST  WXYZ`  
 `abcd fg ijklmnopq st vwxyz`  
-`.,!?:;[]{}&@8ñα⏻`
+`.,!?:;[]{}&@8ñα⏻🜨`
 
