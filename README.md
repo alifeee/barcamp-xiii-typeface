@@ -10,3 +10,5 @@ CC-BY-SHA (change to proper)
 `abcd fg ijklmnopq st vwxyz`  
 `.,!?:;[]{}&@8ñα⏻🜨`
 
+extra (missing) letters are (temporarily ???) filled in with letters from [bogface](https://github.com/alifeee/bogface/).
+
