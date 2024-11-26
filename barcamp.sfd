@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: Barcamp-Thirteen
 FullName: Barcamp Thirteen
-FamilyName: Barcamp-Thirteen
+FamilyName: Barcamp
 Weight: Regular
 Copyright: this font has no licence, you may use and modify it freely
 UComments: "2024-11-23: Created with FontForge (http://fontforge.org)"
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1732380451
-ModificationTime: 1732628806
+ModificationTime: 1732628959
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
