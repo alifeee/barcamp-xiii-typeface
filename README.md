@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/barcamp-xiii-typeface/about/>
 # barcamp 13 communal typeface
 
 a communal typeface, created at <https://thirteen.barcamplondon.org/> using paper & pens, and compiled using [FontForge](https://fontforge.org).
